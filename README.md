@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rueichenghuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rueichenghuang" height="30" width="40" /></a>
 <a href="https://fb.com/richenyou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="richenyou" height="30" width="40" /></a>
-<a href="/https://www.bdr.rocks/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.bdr.rocks/rss.xml" height="30" width="40" /></a>
+<a href="https://www.bdr.rocks/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.bdr.rocks/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
