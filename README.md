@@ -33,28 +33,3 @@ preview
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bugdetective"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bugdetective" /></a></p><br><br>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
