@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-5630
-Fork on GitHub
-928
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
