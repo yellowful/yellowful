@@ -8,9 +8,9 @@
 ### Latest Posts of My Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [原生 JavaScript 和 HTML5 的時間功能](https://www.bdr.rocks/blog/2021-07-16-%E5%8E%9F%E7%94%9F-javascript-%E5%92%8C-html5-%E7%9A%84%E6%99%82%E9%96%93%E5%8A%9F%E8%83%BD/)
 - [為什麼要改一個字](https://www.bdr.rocks/blog/2021-05-30-%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E6%94%B9%E4%B8%80%E5%80%8B%E5%AD%97/)
 - [八仙山主峰步道](https://www.bdr.rocks/blog/%E5%85%AB%E4%BB%99%E5%B1%B1%E4%B8%BB%E5%B3%B0%E6%AD%A5%E9%81%93/)
-- [一場大小寫轉換的客服遊戲](https://www.bdr.rocks/blog/2021-05-17-%E4%B8%80%E5%A0%B4%E5%A4%A7%E5%B0%8F%E5%AF%AB%E8%BD%89%E6%8F%9B%E7%9A%84%E5%AE%A2%E6%9C%8D%E9%81%8A%E6%88%B2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
