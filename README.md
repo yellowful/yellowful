@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate front-end developer from Taiwan</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.bdr.rocks/project/](https://www.bdr.rocks/project/)
+- 👨‍💻 Descriptions of my projects are available at [https://www.bdr.rocks/project/](https://www.bdr.rocks/project/)
 
 - 📝 I regularly write articles on [https://www.bdr.rocks/blog-list/](https://www.bdr.rocks/blog-list/)
 
